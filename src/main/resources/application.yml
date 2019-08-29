@@ -1,0 +1,6 @@
+server:
+  port: 4723
+
+limit:
+  default:
+    value: 100.00
